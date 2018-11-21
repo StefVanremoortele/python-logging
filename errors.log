@@ -1,0 +1,24 @@
+2018-11-21 10:17:28,228 - my_module - ERROR - Hi, bar. I'm afraid there's an error
+2018-11-21 10:17:28,229 - __main__ - ERROR - Failed to open file
+Traceback (most recent call last):
+  File ".\main.py", line 23, in <module>
+    open('/path/to/does/not/exist', 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: '/path/to/does/not/exist'
+2018-11-21 10:40:52,206 - my_module - ERROR - Hi, bar. I'm afraid there's an error
+2018-11-21 10:40:52,206 - __main__ - ERROR - Failed to open file
+Traceback (most recent call last):
+  File ".\main.py", line 23, in <module>
+    open('/path/to/does/not/exist', 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: '/path/to/does/not/exist'
+2018-11-21 10:41:18,683 - my_module - ERROR - Hi, bar. I'm afraid there's an error
+2018-11-21 10:41:18,695 - __main__ - ERROR - Failed to open file
+Traceback (most recent call last):
+  File ".\main.py", line 23, in <module>
+    open('/path/to/does/not/exist', 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: '/path/to/does/not/exist'
+2018-11-21 10:41:23,598 - my_module - ERROR - Hi, bar. I'm afraid there's an error
+2018-11-21 10:41:23,598 - __main__ - ERROR - Failed to open file
+Traceback (most recent call last):
+  File ".\main.py", line 23, in <module>
+    open('/path/to/does/not/exist', 'rb')
+FileNotFoundError: [Errno 2] No such file or directory: '/path/to/does/not/exist'
